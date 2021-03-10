@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="3785" started-at="2021-02-24T06:05:20Z" finished-at="2021-02-24T06:05:24Z">
+  <suite name="Suite" duration-ms="5361" started-at="2021-03-01T04:40:05Z" finished-at="2021-03-01T04:40:10Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="3785" started-at="2021-02-24T06:05:20Z" finished-at="2021-02-24T06:05:24Z">
+    <test name="Test" duration-ms="5361" started-at="2021-03-01T04:40:05Z" finished-at="2021-03-01T04:40:10Z">
       <class name="test.Testcase1">
-        <test-method status="PASS" signature="setup()[pri:0, instance:test.Testcase1@46daef40]" name="setup" is-config="true" duration-ms="1297" started-at="2021-02-24T06:05:20Z" finished-at="2021-02-24T06:05:22Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:test.Testcase1@46daef40]" name="setup" is-config="true" duration-ms="1611" started-at="2021-03-01T04:40:05Z" finished-at="2021-03-01T04:40:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="LoginTest()[pri:0, instance:test.Testcase1@46daef40]" name="LoginTest" duration-ms="2405" started-at="2021-02-24T06:05:22Z" finished-at="2021-02-24T06:05:24Z">
+        <test-method status="PASS" signature="LoginTest()[pri:0, instance:test.Testcase1@46daef40]" name="LoginTest" duration-ms="3657" started-at="2021-03-01T04:40:06Z" finished-at="2021-03-01T04:40:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginTest -->
-        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:test.Testcase1@46daef40]" name="CloseBrowser" is-config="true" duration-ms="68" started-at="2021-02-24T06:05:24Z" finished-at="2021-02-24T06:05:24Z">
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:test.Testcase1@46daef40]" name="CloseBrowser" is-config="true" duration-ms="72" started-at="2021-03-01T04:40:10Z" finished-at="2021-03-01T04:40:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CloseBrowser -->
